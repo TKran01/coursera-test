@@ -38,11 +38,11 @@ h2 {
 	background: pink;
 }
 .second > h2 {
-	background: red;
+	background: #c25757;
 	color: white;
 }
 .third > h2 {
-	background: #FFE4B5;
+	background: #f9e392;
 }
 .row {
   width: 100%;
