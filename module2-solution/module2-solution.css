@@ -5,7 +5,8 @@
 }
 html {
 	margin: 20px;
-	font-family: Tisa, Arian, Helvetica;
+	font-family: Times New Roman, Tisa, Arian, Helvetica;
+	font-weight: 600;
 }
 h1 {
 	text-align: center;
