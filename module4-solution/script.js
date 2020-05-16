@@ -10,17 +10,6 @@
 // or "j", otherwise, the program should say "Good Bye". So, the final output
 // on the console should look like this:
 /*
-Hello Yaakov
-Good Bye John
-Good Bye Jen
-Good Bye Jason
-Hello Paul
-Hello Frank
-Hello Larry
-Hello Paula
-Hello Laura
-Good Bye Jim
-
 WARNING!!! WARNING!!!
 The code does NOT currently work! It is YOUR job to make it work
 as described in the requirements and the steps in order to complete this
